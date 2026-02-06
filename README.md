@@ -1,6 +1,6 @@
 <h1>Hello There👋</h1>
 
-<marquee><h2>Welcome to my profile</h2></marquee>
+<marquee behaviour="slide"><h2>Welcome to my profile</h2></marquee>
 
 <p>🔭 I’m currently working on javascript based beginner projects.</p> 
 <p>🌱 I’m currently learning DSA in order to solve coding problems efficiently.</p>
