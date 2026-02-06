@@ -1,8 +1,6 @@
 
 <h1>Hello There 👋</h1>
 
-<h1>Hello There 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
     font=Fira+Code
