@@ -1,8 +1,12 @@
 
-  <h1>Hello There👋</h1>
+<h1>Hello There 👋</h1>
+
 <p align="center">
-  <svg width="100%" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
-    <text y="28" font-size="20">
+  <svg width="100%" height="40" viewBox="0 0 1000 40"
+       xmlns="http://www.w3.org/2000/svg">
+    <text y="28"
+          font-size="20"
+          text-anchor="start">
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -14,7 +18,8 @@
     </text>
   </svg>
 </p>
->
+
+
 
   
   
