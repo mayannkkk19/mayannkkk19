@@ -1,16 +1,18 @@
 
   <h1>Hello There👋</h1>
-<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
-  <text x="1000" y="40" font-size="32">
-    <animate
-      attributeName="x"
-      from="1000"
-      to="-1000"
-      dur="8s"
-      repeatCount="indefinite" />
-    ⚡ Fast Scroll ⚡ Welcome to My GitHub Profile ⚡
-  </text>
-</svg>
+<p align="center">
+  <svg width="100%" height="40" viewBox="0 0 800 40" xmlns="http://www.w3.org/2000/svg">
+    <text x="800" y="28" font-size="20">
+      <animate
+        attributeName="x"
+        from="800"
+        to="-800"
+        dur="8s"
+        repeatCount="indefinite" />
+      ⚡ Fast Scroll ⚡ Welcome to My GitHub Profile ⚡
+    </text>
+  </svg>
+</p>
 
   
   
