@@ -1,3 +1,4 @@
+<style>
 /* CSS for scrolling text */
 .scrolling-text {
   display: inline-block;
@@ -9,7 +10,7 @@
   0% { transform: translateX(100%); }
   100% { transform: translateX(-100%); }
 }
-
+</style>
 
 <h1>Hello There👋</h1>
 
