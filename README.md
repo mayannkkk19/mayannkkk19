@@ -1,23 +1,21 @@
 
 <h1>Hello There 👋</h1>
 
+<h1>Hello There 👋</h1>
+
 <p align="center">
-  <svg width="100%" height="40" viewBox="0 0 1000 40"
-       xmlns="http://www.w3.org/2000/svg">
-    <text y="28"
-          font-size="20"
-          text-anchor="start">
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        from="1000 0"
-        to="-2000 0"
-        dur="8s"
-        repeatCount="indefinite" />
-      ⚡ Fast Scroll ⚡ Welcome to My GitHub Profile ⚡
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=20
+    &duration=2000
+    &pause=500
+    &color=F7A41D
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=⚡+Fast+Scroll+⚡+Welcome+to+My+GitHub+Profile+⚡" />
 </p>
+
 
 
 
