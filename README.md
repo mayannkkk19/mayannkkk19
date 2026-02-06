@@ -1,6 +1,23 @@
+/* CSS for scrolling text */
+.scrolling-text {
+  display: inline-block;
+  white-space: nowrap;
+  animation: scroll-left 10s linear infinite;
+}
+
+@keyframes scroll-left {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+
+
 <h1>Hello There👋</h1>
 
-<marquee behaviour="slide"><h2>Welcome to my profile</h2></marquee>
+<!-- HTML Structure -->
+<div style="overflow: hidden;">
+  <span class="scrolling-text">Your scrolling text here</span>
+</div>
+
 
 <p>🔭 I’m currently working on javascript based beginner projects.</p> 
 <p>🌱 I’m currently learning DSA in order to solve coding problems efficiently.</p>
