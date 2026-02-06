@@ -1,9 +1,16 @@
 
   <h1>Hello There👋</h1>
-
-<marquee scrollamount="10">
-  <h1>Fast Scroll ⚡</h1>
-</marquee>
+<svg width="100%" height="60" viewBox="0 0 1000 60" xmlns="http://www.w3.org/2000/svg">
+  <text x="1000" y="40" font-size="32">
+    <animate
+      attributeName="x"
+      from="1000"
+      to="-1000"
+      dur="8s"
+      repeatCount="indefinite" />
+    ⚡ Fast Scroll ⚡ Welcome to My GitHub Profile ⚡
+  </text>
+</svg>
 
   
   
