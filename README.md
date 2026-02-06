@@ -1,27 +1,10 @@
-<html>
-<head>
-  <style>
-/* CSS for scrolling text */
-  .scrolling-text {
-    display: inline-block;
-    white-space: nowrap;
-    animation: scroll-left 10s linear infinite;
-  }
 
-  @keyframes scroll-left {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  }
-  </style>
-</head>
-
-<body>
   <h1>Hello There👋</h1>
 
-<!-- HTML Structure -->
-  <div style="overflow: hidden;">
-    <span class="scrolling-text">Your scrolling text here</span>
-  </div>
+<marquee scrollamount="10">
+  <h1>Fast Scroll ⚡</h1>
+</marquee>
+
   
   
   <p>🔭 I’m currently working on javascript based beginner projects.</p> 
@@ -30,6 +13,5 @@
   
   <p>📫 How to reach me: mayankkyadav76@gmail.com </p>
   <p>😄 Pronouns: he/him</p>
-</body>
-</html>
+
 
