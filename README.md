@@ -8,4 +8,5 @@
 <p>🌱 I’m currently learning DSA in order to solve coding problems efficiently.</p>
 <p>👯 I’m looking to collaborate on more html-css-js based projects.</p>
 <p>📫 How to reach me: mayankkyadav76@gmail.com</p>
+<p> Discord username: developer22. </p>
 <p>😄 Pronouns: he/him</p>
